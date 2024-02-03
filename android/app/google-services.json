@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082238032405",
+    "project_id": "trackingassignment-ab533",
+    "storage_bucket": "trackingassignment-ab533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082238032405:android:1f6894b1b30ae4079d0c1c",
+        "android_client_info": {
+          "package_name": "com.googletrackingassignmnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082238032405-s56qr44dfgfv8sfk5icie98b97v4ker9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Yj8gqvG2ul1GoSCrXuKZpgtkyi25xfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082238032405-s56qr44dfgfv8sfk5icie98b97v4ker9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
